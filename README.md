@@ -57,6 +57,7 @@ Keiichi Watanabe, Ryosuke Sato, Takeshi Tsukada, Naoki Kobayashi
 
 Combining Effects and Coeffects via Grading  
 Marco Gaboardi, Shinya Katsumata, Dominic Orchard, Flavien Breuvart, Tarmo Uustalu  
+([preprint](http://www.cl.cam.ac.uk/~dao29/publ/combining-effects-and-coeffects-icfp16.pdf))
 
 Compact Bit Encoding Schemes for Simply-Typed Lambda-Terms  
 Kotaro Takeda, Naoki Kobayashi, Kazuya Yaguchi, Ayumi Shinohara  
